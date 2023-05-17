@@ -18,7 +18,7 @@ goblin = "0.2.3"
 colored = "2.0.0"
 rusb = "0.9.0"
 pretty_env_logger = "0.3.0"
-cargo-project = "0.2.7"
+cargo-project = { git = "https://github.com/wiktorwieclaw/cargo-project", rev = "0d50343" }
 clap = {version = "3.0.10", features=["derive"]}
 maplit = "1.0.2"
 log = "0.4.6"
